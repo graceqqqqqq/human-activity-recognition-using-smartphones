@@ -21,7 +21,7 @@ The meassurements that were representatives for this analysis were all the Means
 
 #2. Labels the data set
 
-As the original labels were too hard to read, using regular expresions the script changes the original names for more readable ones using as input the features.txt file. Also, adds to the beggining the words MeanOf, so the final script can contains more representative names.
+As the original labels were too hard to read, using regular expresions the script changes the original names for more readable ones using as input the features.txt file. 
 
 #3. Using descriptives activities names
 
@@ -29,4 +29,4 @@ The script pulls out all the activities from the y_train.txt and y_test.txt. Aft
 
 #4. Add Subjects and create a tidy data set
 
-$5. After that, the scripts adds the subject column from subjects_train.txt and subjects_test.txt. Using the dplyr package to calculate the average of each variable for each activity and each subject. Finally, the script exports the tidy data to a txt file using write.table.
+#5. After that, the scripts adds the subject column from subjects_train.txt and subjects_test.txt. Using the dplyr package to calculate the average of each variable for each activity and each subject. Finally, the script exports the tidy data to a txt file using write.table.
