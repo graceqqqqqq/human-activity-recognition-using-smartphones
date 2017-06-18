@@ -1,0 +1,36 @@
+Data
+
+For each record it is provided:
+
+An identifier of the subject who carried out the experiment.
+Integer
+The activity name:
+WALKING
+WALKING_UPSTAIRS
+WALKING_DOWNSTAIRS
+SITTING
+STANDING
+LAYING
+The average of each meassurament for each subject and each activity
+Float
+Variables
+
+The file shows the following meassurements for each subject and each activity:
+[1] "Subject"                      "Activity"                     "V1"                           "TimeBodyAccMeanX"            
+[5] "TimeBodyAccMeanY"             "TimeBodyAccMeanZ"             "TimeBodyAccStdX"              "TimeBodyAccStdY"             
+[9] "TimeBodyAccStdZ"              "TimeGravityAccMeanX"          "TimeGravityAccMeanY"          "TimeGravityAccMeanZ"         
+[13] "TimeGravityAccStdX"           "TimeGravityAccStdY"           "TimeGravityAccStdZ"           "TimeBodyAccJerkMeanX"        
+[17] "TimeBodyAccJerkMeanY"         "TimeBodyAccJerkMeanZ"         "TimeBodyAccJerkStdX"          "TimeBodyAccJerkStdY"         
+[21] "TimeBodyAccJerkStdZ"          "TimeBodyGyroMeanX"            "TimeBodyGyroMeanY"            "TimeBodyGyroMeanZ"           
+[25] "TimeBodyGyroStdX"             "TimeBodyGyroStdY"             "TimeBodyGyroStdZ"             "TimeBodyGyroJerkMeanX"       
+[29] "TimeBodyGyroJerkMeanY"        "TimeBodyGyroJerkMeanZ"        "TimeBodyGyroJerkStdX"         "TimeBodyGyroJerkStdY"        
+[33] "TimeBodyGyroJerkStdZ"         "TimeBodyAccMagMean"           "TimeBodyAccMagStd"            "TimeGravityAccMagMean"       
+[37] "TimeGravityAccMagStd"         "TimeBodyAccJerkMagMean"       "TimeBodyAccJerkMagStd"        "TimeBodyGyroMagMean"         
+[41] "TimeBodyGyroMagStd"           "TimeBodyGyroJerkMagMean"      "TimeBodyGyroJerkMagStd"       "FrequencyBodyAccMeanX"       
+[45] "FrequencyBodyAccMeanY"        "FrequencyBodyAccMeanZ"        "FrequencyBodyAccStdX"         "FrequencyBodyAccStdY"        
+[49] "FrequencyBodyAccStdZ"         "FrequencyBodyAccJerkMeanX"    "FrequencyBodyAccJerkMeanY"    "FrequencyBodyAccJerkMeanZ"   
+[53] "FrequencyBodyAccJerkStdX"     "FrequencyBodyAccJerkStdY"     "FrequencyBodyAccJerkStdZ"     "FrequencyBodyGyroMeanX"      
+[57] "FrequencyBodyGyroMeanY"       "FrequencyBodyGyroMeanZ"       "FrequencyBodyGyroStdX"        "FrequencyBodyGyroStdY"       
+[61] "FrequencyBodyGyroStdZ"        "FrequencyBodyAccMagMean"      "FrequencyBodyAccMagStd"       "FrequencyBodyAccJerkMagMean" 
+[65] "FrequencyBodyAccJerkMagStd"   "FrequencyBodyGyroMagMean"     "FrequencyBodyGyroMagStd"      "FrequencyBodyGyroJerkMagMean"
+[69] "FrequencyBodyGyroJerkMagStd" 
